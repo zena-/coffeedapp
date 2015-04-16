@@ -1,1 +1,1 @@
-wed: gunicorn coffeedapp.wsgi --log-file -
+wed: gunicorn coffeedapp.wsgi --log-file - 
